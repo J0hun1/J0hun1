@@ -40,5 +40,7 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
 </div>
-[![](https://visitcount.itsvg.in/api?id=J0hun1&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 ###
+
+[![](https://visitcount.itsvg.in/api?id=J0hun1&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
